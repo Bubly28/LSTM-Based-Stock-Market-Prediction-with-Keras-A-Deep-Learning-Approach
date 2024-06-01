@@ -1,0 +1,2 @@
+# LSTM-Based-Stock-Market-Prediction-with-Keras-A-Deep-Learning-Approach
+This project employs Long Short-Term Memory (LSTM) models using Keras to predict stock market trends, focusing on NVIDIA's stock data. Through comprehensive data preprocessing and model training, it aims to evaluate the effectiveness of deep learning in financial analysis, providing insights into stock market dynamics and future predictions.
